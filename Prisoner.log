@@ -1,0 +1,18 @@
+мая 25, 2024 12:01:18 AM org.example.Prisoner <init>
+INFO: Создан экземпляр класса Prisoner
+мая 25, 2024 12:01:34 AM org.example.Prisoner setCellNumber
+INFO: Установлен номер камеры: 1
+мая 25, 2024 12:01:35 AM org.example.Prisoner setMonthsInPrison
+INFO: Установлен срок заключения в месяцах1
+мая 25, 2024 12:01:44 AM org.example.Prisoner setDangerous
+INFO: Опасный заключенный: true
+мая 25, 2024 12:01:49 AM org.example.Prisoner setTotalSentence
+INFO: Общий срок заключения: 1
+мая 25, 2024 12:01:49 AM org.example.Prisoner setCategory
+INFO: Категория заключенного: Легкий режим
+мая 25, 2024 12:01:52 AM org.example.Prisoner setAggressive
+INFO: Агрессивный заключенный: true
+мая 25, 2024 12:01:57 AM org.example.Prisoner setRecidivist
+INFO: Рецидивист: true
+мая 25, 2024 12:01:57 AM org.example.Prisoner setDaysUntilRelease
+INFO: Дней до освобождения: 30

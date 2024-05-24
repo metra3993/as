@@ -1,0 +1,8 @@
+мая 25, 2024 12:01:47 AM org.example.Person setName
+INFO: Установлено имя: qw
+мая 25, 2024 12:01:49 AM org.example.Person setAge
+INFO: Установлен возраст: 1
+мая 25, 2024 12:02:00 AM org.example.Person setName
+INFO: Установлено имя: qwe
+мая 25, 2024 12:02:02 AM org.example.Person setAge
+INFO: Установлен возраст: 12
